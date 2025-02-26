@@ -16,3 +16,10 @@ Using persistence images to detect topological differences between AI and human 
 
 Enlace al zip con los datos
 https://drive.google.com/file/d/125paJUw7Q8dMu0demsFeKJvqRABbljAR/view?usp=sharing
+
+GloVe preentrenado de 300 dimensiones (GloVe embeddings from SBWC, .vec format):
+
+https://github.com/dccuchile/spanish-word-embeddings?tab=readme-ov-file#glove-embeddings-from-sbwc
+
+Enlace a los datos (carpeta datos que se utiliza en los notebooks)
+https://drive.google.com/file/d/1Y2JsjoDaS20TywQ2OcJ0XWOUI29GmGzF/view?usp=sharing
