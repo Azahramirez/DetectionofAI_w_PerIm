@@ -6,13 +6,21 @@ Using persistence images to detect topological differences between AI and human 
 
 # Indicaciones
 
-1.- En el archivo de loadGloVe viene la preparación de los datos
+1- p0 representa el preprocesamiento de los datos, donde se genera un arreglo aleatorio para evitar sesgo en las pruebas y se 
+mezclan los datasets de IA vs No IA
 
-2.- El dataset original se encuentra en el zip así como el archivo necesario para cambiar a vectores loadGloVe3
+2- En el notebook de p1 se generan los embeddings con el modelo preentrenado de GloVe
 
-3.- En redneuronal se hizo una prueba con LSTM
 
-4.- En redneuronalcnn aparece una prueba con CNN
+3- En p2 se calculan los diagramas de persistencia de cada vector de las respuestas y posteriormente se exportan las imágenes de persistencia
+
+4- En p3 y p4 se muestra la arquitectura de cada modelo
+
+5- En p5 se pueden hacer pruebas con nuevos textos
+
+6- En p6 se realizan las 10 pruebas aleatorias por n tamaño de muestras para entrenamiento
+
+
 
 
 GloVe preentrenado de 300 dimensiones (GloVe embeddings from SBWC, .vec format):
