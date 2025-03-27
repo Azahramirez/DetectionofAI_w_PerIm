@@ -1,4 +1,4 @@
-# DetectionofAI_w_PerIm
+# Detection of IA using Persistence Images
 
 Using persistence images to detect topological differences between AI and human writing
 
