@@ -6,19 +6,26 @@ Using persistence images to detect topological differences between AI and human 
 
 # Indicaciones
 
-1- p0 representa el preprocesamiento de los datos, donde se genera un arreglo aleatorio para evitar sesgo en las pruebas y se 
+1. p0 representa el preprocesamiento de los datos, donde se genera un arreglo aleatorio para evitar sesgo en las pruebas y se 
 mezclan los datasets de IA vs No IA
 
-2- En el notebook de p1 se generan los embeddings con el modelo preentrenado de GloVe
+2. En el notebook de p1 se generan los embeddings con el modelo preentrenado de GloVe
 
 
-3- En p2 se calculan los diagramas de persistencia de cada vector de las respuestas y posteriormente se exportan las imágenes de persistencia
+3. En p2 se calculan los diagramas de persistencia de cada vector de las respuestas y posteriormente se exportan las imágenes de persistencia
 
-4- En p3 y p4 se muestra la arquitectura de cada modelo
+4. En p3 y p4 se muestra la arquitectura de cada modelo
 
-5- En p5 se pueden hacer pruebas con nuevos textos
+5. En p5 se pueden hacer pruebas con nuevos textos
 
-6- En p6 se realizan las 10 pruebas aleatorias por n tamaño de muestras para entrenamiento
+6. En p6 se realizan las 10 pruebas aleatorias por n tamaño de muestras para entrenamiento
+
+7. En p7 se presentan las pruebas comparativas con los modelos Benchmark
+
+>`NOTAS`:
+>
+> - La carpeta `pruebasBenchmark` presenta notebooks de prueba para los modelos Transformers y BERT, pero no representan las arquitecturas usadas para el experimento 4
+> - Dentro de la carpeta `creacionModelosBenchMark` se detalla el proceso de creación de los modelos para el experimento 4 
 
 
 
