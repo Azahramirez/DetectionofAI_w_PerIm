@@ -2,3 +2,14 @@ datos/
 glove_6B/
 pruebasBenchmarkModels/logs/
 pruebasBenchmarkModels/results/
+*.env
+logs/
+0.26.0
+*.keras
+*.pkl
+creacionModelosBenchmark/logs/
+creacionModelosBenchmark/modeloBERT_chicos/
+creacionModelosBenchmark/modeloBERT_grandes/
+creacionModelosBenchmark/results/
+results/
+
