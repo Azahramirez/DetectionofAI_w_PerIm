@@ -1,4 +1,4 @@
-# DetectionofAI_w_PerIm
+# Detection of IA using Persistence Images
 
 Using persistence images to detect topological differences between AI and human writing
 
@@ -62,5 +62,6 @@ https://drive.google.com/file/d/1Y2JsjoDaS20TywQ2OcJ0XWOUI29GmGzF/view?usp=shari
 9- Explica con tus palabras  ¿qué necesita un pastel para ser considerado delicioso?,
 
 10- Explica con tus palabras  ¿qué debería realizar un estudiante para que lo consideres como un estudiante modelo o buen estudiante?,
+
 
 *Para las pruebas se uso una versión de Python 3.10.14*
