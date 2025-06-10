@@ -65,3 +65,4 @@ https://drive.google.com/file/d/1Y2JsjoDaS20TywQ2OcJ0XWOUI29GmGzF/view?usp=shari
 
 
 *Para las pruebas se uso una versión de Python 3.10.14*
+
